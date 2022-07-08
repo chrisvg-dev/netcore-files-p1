@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SF/+8Rvg1vyFUMYXDgZfEhyEUnZZjS2/i8fXXXeKG1ga7XN6xycr6y7HPonZtsQnUTYooHVWLckBPhwBiowq9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cvillegas\\source\\repos\\NetCore2\\NetCore2\\NetCore2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvillegas\\.nuget\\packages\\documentformat.openxml\\2.17.1\\documentformat.openxml.2.17.1.nupkg.sha512",
+    "C:\\Users\\cvillegas\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\cvillegas\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\cvillegas\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\cvillegas\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\cvillegas\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\cvillegas\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
